@@ -22,7 +22,8 @@ void main() {
 
 Following are the embedding types:  
 
-```EmbeddingChoice.dart```  : <img alt="Dart Embedding" height="480" src="https://github.com/aswanath/flutter_dartpad/blob/main/images/dart.png" width="270"/>
+EmbeddingChoice.dart:  
+<img alt="Dart Embedding" height="480" src="https://github.com/aswanath/flutter_dartpad/blob/main/images/dart.png" width="270"/>
 ```EmbeddingChoice.flutterShowcase```  : ![Dart Embedding](https://github.com/aswanath/flutter_dartpad/blob/main/images/flutterShowcase.png)
 ```EmbeddingChoice.flutter```  : ![Dart Embedding](https://github.com/aswanath/flutter_dartpad/blob/main/images/flutter.png)
 ```EmbeddingChoice.html```  : ![Dart Embedding](https://github.com/aswanath/flutter_dartpad/blob/main/images/html.png)
