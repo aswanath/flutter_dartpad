@@ -1,0 +1,12 @@
+const String kDartPadHost = 'dartpad.dev';
+const String kThemeKey = 'theme';
+const String kRunKey = 'run';
+const String kSplitKey = 'split';
+const String kNullSafetyKey = 'null_safety';
+const String kDarkMode = 'dark';
+const String kLightMode = 'light';
+const String kGistId = 'id';
+const String kSourceCode = 'sourceCode';
+const String kType = 'type';
+const String kGaId = 'ga_id';
+const String kSampleCode = "void main() { print('Hello World');}";
