@@ -13,6 +13,7 @@ void main() {
       home: Scaffold(
         body: DartPad(
           code: 'void main() => print("Hello DartPad Widget");',
+          embeddingChoice: EmbeddingChoice.dart,
         ),
       ),
     ),
@@ -47,3 +48,5 @@ EmbeddingChoice.inline
 ```  
 <img alt="Dart Embedding" height="480" src="https://github.com/aswanath/flutter_dartpad/blob/main/images/inline.png" width="270"/>  
 
+
+Inspired to make this package and some code was borrowed from [dart_pad_widget](https://pub.dev/packages/dart_pad_widget)
