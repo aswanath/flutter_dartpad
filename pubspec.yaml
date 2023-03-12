@@ -1,5 +1,5 @@
 name: flutter_dartpad
-description: Dartpad which can be used inside mobile application
+description: A Dartpad widget which can be embed with mobile application. It supports all the designs provided in dartpad embedding guide.
 version: 0.0.1
 homepage: https://github.com/aswanath/flutter_dartpad
 

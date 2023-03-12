@@ -26,27 +26,27 @@ Following are the embedding choices:
 ```dart
 EmbeddingChoice.dart
 ```  
-<img alt="Dart Embedding" height="480" src="https://github.com/aswanath/flutter_dartpad/blob/main/images/dart.png" width="270"/>  
+<img alt="Dart Embedding" height="480" src="https://raw.githubusercontent.com/aswanath/flutter_dartpad/main/images/dart.png" width="270"/>  
 
 ```dart
 EmbeddingChoice.flutterShowcase
 ```  
-<img alt="Dart Embedding" height="480" src="https://github.com/aswanath/flutter_dartpad/blob/main/images/flutter_showcase.png" width="270"/>
+<img alt="Flutter Showcase Embedding" height="480" src="https://raw.githubusercontent.com/aswanath/flutter_dartpad/main/images/flutter_showcase.png" width="270"/>
 
 ```dart
 EmbeddingChoice.flutter
 ```  
-<img alt="Dart Embedding" height="480" src="https://github.com/aswanath/flutter_dartpad/blob/main/images/flutter.png" width="270"/>  
+<img alt="Flutter Embedding" height="480" src="https://raw.githubusercontent.com/aswanath/flutter_dartpad/main/images/flutter.png" width="270"/>  
 
 ```dart
 EmbeddingChoice.html
 ```  
-<img alt="Dart Embedding" height="480" src="https://github.com/aswanath/flutter_dartpad/blob/main/images/html.png" width="270"/>  
+<img alt="HTML Embedding" height="480" src="https://raw.githubusercontent.com/aswanath/flutter_dartpad/main/images/html.png" width="270"/>  
 
 ```dart
 EmbeddingChoice.inline
 ```  
-<img alt="Dart Embedding" height="480" src="https://github.com/aswanath/flutter_dartpad/blob/main/images/inline.png" width="270"/>  
+<img alt="Inline Embedding" height="480" src="https://raw.githubusercontent.com/aswanath/flutter_dartpad/main/images/inline.png" width="270"/>  
 
 
 Inspired to make this package and some code was borrowed from [dart_pad_widget](https://pub.dev/packages/dart_pad_widget)
